@@ -33,3 +33,10 @@ h3 {
 p {
   font-size: 1.1rem;
 }
+
+.owner-contact {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 20px;
+}

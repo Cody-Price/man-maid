@@ -8,7 +8,7 @@ function App() {
       <h4>(Under Construction)</h4>
       <h3><span class="logo">Man Maid</span> will be a handyman message board where you will be able to
         post, search, and get in contact with various handymen in your local area!</h3>
-      <h3>If you would like more information please contact:</h3>
+      <h3>If you would like more information or a <span class="logo">Man Maid</span> right away please contact:</h3>
       <div class="owner-contact">
         <h2>Jim Spaulding</h2>
         <p>themanmaidofdenver@gmail.com</p>
