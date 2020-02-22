@@ -11,8 +11,8 @@ function App() {
       <h3>If you would like more information or a <span class="logo">Man Maid</span> right away please contact:</h3>
       <div class="owner-contact">
         <h2>Jim Spaulding</h2>
-        <p>themanmaidofdenver@gmail.com</p>
-        <p>573-747-6270</p>
+        <a href="mailto:themanmaidofdenver@gmail.com">themanmaidofdenver@gmail.com</a>
+        <a href="tel:573-747-6270">573-747-6270</a>
       </div>
     </div>
   );
