@@ -26,8 +26,16 @@ h3 {
   max-width: 600px;
 }
 
+h4 {
+  margin: 0;
+  position: relative;
+  top: -15px;
+}
+
 .logo {
   font-family: 'Black Ops One', Arial, Helvetica, sans-serif;
+  color: rgb(252, 247, 0);
+  text-shadow: 1px 1px 1px black, -1px -1px 1px  black, -1px 1px 1px  black, 1px -1px 1px  black;
 }
 
 p {
